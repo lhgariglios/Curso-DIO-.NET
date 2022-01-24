@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using IntroducaoCsharp;
+using Interface;
 
 namespace IntroducaoCsharp
 {
@@ -15,6 +16,13 @@ namespace IntroducaoCsharp
 			person.Nome = "Luiz";
 			person.Estado = "MG";
 			person.Idade = 18;
+
+			var animal = new Animal();
+
+			animal.Nome = "Billy";
+			animal.NomeDono = "Luiz";
+			animal.Especie = "Cachorro";
+
 		}
 
 	}
