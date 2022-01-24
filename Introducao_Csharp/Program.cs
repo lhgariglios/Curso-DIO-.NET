@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using IntroducaoCsharp;
 using Interface;
+using Enum;
 
 namespace IntroducaoCsharp
 {
@@ -22,6 +23,8 @@ namespace IntroducaoCsharp
 			animal.Nome = "Billy";
 			animal.NomeDono = "Luiz";
 			animal.Especie = "Cachorro";
+
+			var pessoa = (Colegas)0; //pessoa tem o valor de pessoa na posição zero
 
 		}
 
