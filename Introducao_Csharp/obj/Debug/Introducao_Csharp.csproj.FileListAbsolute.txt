@@ -1,0 +1,7 @@
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\bin\Debug\Introducao_Csharp.exe.config
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\bin\Debug\Introducao_Csharp.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\bin\Debug\Introducao_Csharp.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\obj\Debug\Introducao_Csharp.csproj.AssemblyReference.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\obj\Debug\Introducao_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\obj\Debug\Introducao_Csharp.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Introducao_Csharp\obj\Debug\Introducao_Csharp.pdb
