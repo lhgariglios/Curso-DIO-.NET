@@ -48,6 +48,20 @@ namespace PrimeirosPassos
                         }
                         break;
                     case "3":
+                        decimal notaTotal = 0;
+                        decimal numeroAlunos = 0;
+                        decimal media = 0;
+                        for(int i = 0; i < alunos.Length; i++)
+                        {
+                            if(!string.IsNullOrEmpty(alunos[i].Nome))
+                            {
+                                notaTotal = notaTotal + alunos[i].Nota;
+                                numeroAlunos++;
+                            }
+                        }
+                        media = notaTotal/numeroAlunos;
+                                             
+                        Console.WriteLine($"Media geral: {media}");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException(); //Mostra erro
