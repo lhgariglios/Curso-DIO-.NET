@@ -3,22 +3,15 @@ using System;
 
 namespace PrimeirosPassos
 {
-    class Program
+	class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a opção: "); //Pula a linha
-            Console.WriteLine("1- Novo aluno");
-            Console.WriteLine("2- Lista de alunos");
-            Console.WriteLine("3- Media geral");
-            Console.WriteLine("X- Sair");
-            Console.WriteLine(); //Deixar linha em branco
+            string acao = OpcaoUsuario(); 
 
-            string opcao = Console.ReadLine(); //Lê o que foi digitado
-
-            while (opcao.ToUpper != "X") // Transforma em maiúsculo
+            while (acao != "4")
             {
-                switch(opcao)
+                switch(acao)
                 {
                     case "1":
                         break;
@@ -29,15 +22,22 @@ namespace PrimeirosPassos
                     default:
                         throw new ArgumentOutOfRangeException(); //Mostra erro
                 }
-                Console.WriteLine("Digite a opção: "); //Pula a linha
-                Console.WriteLine("1- Novo aluno");
-                Console.WriteLine("2- Lista de alunos");
-                Console.WriteLine("3- Media geral");
-                Console.WriteLine("X- Sair");
-                Console.WriteLine(); 
-
-                opcao = Console.ReadLine();
+                acao = OpcaoUsuario(); 
             }
+        }
+
+        private static string OpcaoUsuario()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Digite a opção: "); //Pula a linha
+            Console.WriteLine("1- Novo aluno");
+            Console.WriteLine("2- Lista de alunos");
+            Console.WriteLine("3- Media geral");
+            Console.WriteLine("4- Sair");
+            Console.WriteLine(); //Deixar linha em branco
+
+            string  opcaousuario = Console.ReadLine(); //Lê o que foi digitado
+            return opcaousuario;
         }
     }
 }

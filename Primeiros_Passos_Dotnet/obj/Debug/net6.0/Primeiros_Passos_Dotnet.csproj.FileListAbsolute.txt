@@ -1,0 +1,15 @@
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.csproj.AssemblyReference.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.AssemblyInfoInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.AssemblyInfo.cs
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\Primeiros_Passos_Dotnet.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\Primeiros_Passos_Dotnet.deps.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\Primeiros_Passos_Dotnet.runtimeconfig.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\Primeiros_Passos_Dotnet.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\ref\Primeiros_Passos_Dotnet.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\bin\Debug\net6.0\Primeiros_Passos_Dotnet.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\ref\Primeiros_Passos_Dotnet.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Primeiros_Passos_Dotnet\obj\Debug\net6.0\Primeiros_Passos_Dotnet.genruntimeconfig.cache
