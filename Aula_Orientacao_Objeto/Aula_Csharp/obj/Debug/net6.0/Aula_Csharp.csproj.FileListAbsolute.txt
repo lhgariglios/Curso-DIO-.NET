@@ -1,0 +1,15 @@
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.deps.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.runtimeconfig.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\ref\Aula_Csharp.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\bin\Debug\net6.0\Aula_Csharp.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.csproj.AssemblyReference.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.AssemblyInfoInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.AssemblyInfo.cs
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\ref\Aula_Csharp.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Aula_Orientacao_Objeto\Aula_Csharp\obj\Debug\net6.0\Aula_Csharp.genruntimeconfig.cache
