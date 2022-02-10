@@ -25,8 +25,8 @@ namespace Aula_Orientacao_Objeto
 
             //Polimorfismo tempo de compilação
             Calculadora calc = new Calculadora();
-            System.Console.WriteLine("Resultado da primeira soma: " + calc.Soma(10, 10));
-            System.Console.WriteLine("Resultado da segunda soma: " + calc.Soma(10, 10, 10));
+            System.Console.WriteLine("Resultado da primeira soma: " + calc.Somar(10, 10));
+            System.Console.WriteLine("Resultado da segunda soma: " + calc.Somar(10, 10, 10));
 
         }
     }
