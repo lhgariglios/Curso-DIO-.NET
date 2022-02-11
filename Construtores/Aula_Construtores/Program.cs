@@ -21,6 +21,14 @@ namespace Aula_Construtores
             Aluno a1 = new Aluno("Gabriel", "Soares", "Algoritmos");
             a1.Apresentar();
 
+            //Get Set
+            Data mes1 = new Data();
+            mes1.Mes = 20; // 20 -> value
+            mes1.ApresentarMes();
+            Data mes2 = new Data();
+            mes2.Mes = 3; // 3 -> value
+            mes2.ApresentarMes();
+
         }      
     }
 }
