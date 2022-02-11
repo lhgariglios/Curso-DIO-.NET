@@ -1,0 +1,15 @@
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\Aula_Construtores.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\Aula_Construtores.deps.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\Aula_Construtores.runtimeconfig.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\Aula_Construtores.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\ref\Aula_Construtores.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\bin\Debug\net6.0\Aula_Construtores.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.csproj.AssemblyReference.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.AssemblyInfoInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.AssemblyInfo.cs
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\ref\Aula_Construtores.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\Construtores\Aula_Construtores\obj\Debug\net6.0\Aula_Construtores.genruntimeconfig.cache
