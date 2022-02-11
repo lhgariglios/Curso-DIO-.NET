@@ -8,8 +8,8 @@ namespace Aula_Construtores.Modelos
 {
     internal class Pessoa
     {
-        private string nome;
-        private string sobrenome;
+        private readonly string nome;
+        private readonly string sobrenome; //variáveis readonly só podem ser alteradas na inicialização ou nos construtores.
         public Pessoa() //Construtor; Mesmo nome da classe e não tem retorno
         {
             nome = string.Empty;
