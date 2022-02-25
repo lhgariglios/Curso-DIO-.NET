@@ -1,0 +1,15 @@
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.exe
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.deps.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.runtimeconfig.json
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\ref\AppCadastroSeries.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\bin\Debug\net6.0\AppCadastroSeries.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.AssemblyReference.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfoInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.AssemblyInfo.cs
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\ref\AppCadastroSeries.dll
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.pdb
+C:\Users\lhenr\OneDrive\Documentos\Curso_.Net\App_Cadastro_Series\AppCadastroSeries\obj\Debug\net6.0\AppCadastroSeries.genruntimeconfig.cache
